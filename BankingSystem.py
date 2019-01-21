@@ -1,3 +1,7 @@
+'''
+The below code simulates a real banking system with options to open a new bank savings account or do operations with an existing bank account.
+'''
+
 import random #Random library for generating random 5 digit account number
 import time
 
